@@ -1,0 +1,129 @@
+{  
+   "conversations":[  
+      [  
+         "Hi,How are you?",
+         "I am good..What about you"
+      ],
+      [
+       "I am also good ,Thanks",
+        "Its good to hear"
+      ],
+      [  
+         "I need some information about India Artificial Hackathon",
+         "What do you want to know?"
+      ],
+      [  
+         "can we change the team partner? If yes what is the procedure?",
+         "No,You can't do after registration"
+        
+      ],
+      [  
+         "Is the shortlist announced?",
+         "Yes,Please check your mail"
+        
+      ],
+      [
+         "Can you please provide some more details like venue, things to carry and documents to carry for verification etc.",
+          "Yes Sure ,You need to carry PAN CARD and venue details will be shared shortly"
+      ],
+     [
+     "Is the Remote Participation allowed?",
+      "No,Participant needs to be present in the hackathon"
+     ],
+     [
+       "My idea was selected ,whether we want to come for the particular zone to build our idea's solution",
+"Yes ,you should build the idea"
+
+     ],
+[
+"Can I use softwares like IBM watson to implement my solution?",
+"Yes ,You can use any open source"
+],
+[
+"Hey, Please tell what all are necessary to be submitted during the Idea phase..?",
+"We would require the idea and any supporting document that you think will help us in judging your idea."
+],
+[
+"can we submit an idea using multiple themes. for example coupling image processing and recommendation system and come up with one idea.",
+"Yes but will be categorized on the theme it is primarily dependent on"
+],
+[
+"Can more than one idea be submitted?",
+"Yes,You can submit"
+],
+[
+"WILL FOOD AND ACCOMMODATION BE PROVIDED FOR PARTICIPANTS FROM OTHER CITIES AND WHEN IS THE LAST DATE TO SUBMIT OUR IDEAS.",
+"Yes,everything will be provided"
+],
+[
+"Hackathon is in Bangalore so what is the accommodation process",
+"This details will be shared shortly"
+],
+[
+"can you give me a example so i understand clearly that what we have to done?",
+"You need to work on one idea among the themes"
+],
+[
+"Yes",
+"What you want to know more?"
+],
+[
+"Are the Indians who are not in india allowed to participate?",
+"Yes,If you can be available physically"
+],
+[
+"What is the maximum team size?",
+"Team size is two"
+],
+[
+"I didn't receive anything from last years IndiaHacks. Really disappointed.",
+"There must be some logistics issue."
+],
+[
+"Any rules or specific requirements for idea submission?",
+"none, other than what is specified on the page"
+],
+[
+"Can we use AI based service in our hack? Duration of the hackathon is not sufficient to code our own AI solution.",
+"It is based on the idea, you can use API or develop on existing ones."
+],
+["OK",
+"DO you want to know any more?"
+],
+["No",
+"Thanks for talking"  
+],
+["Yes",
+ "Please ask,I am happy to answer you"
+],
+[
+"WHat are the phases in the competition?",
+"Three Phases"
+],
+[
+"What we need to do on 2nd round?",
+"You need to implement your idea in 24 hours"
+],
+["What we need to on 3rd round?",
+"You will have 8 hours to improve the model"
+],
+[
+ "What is the judging criteria?",
+"Judging criteria based on Innovation,pitch,differentiation"
+],
+[
+"What will happen after 3rd round?",
+"You can win 3 lakhs of prize money"
+],
+[
+"How many teams will be selected after second round? ",
+"It depends on Jury"
+],
+[
+"How many teams has been selected after first round?",
+"There are approx forty teams"
+]
+
+
+  ]
+}
